@@ -8,7 +8,7 @@ cURL library enabled
 
 
 Usage
-Clone the repository:
+Clone the repository
 
 
 License

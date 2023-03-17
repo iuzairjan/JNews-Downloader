@@ -1,4 +1,8 @@
 JNews Downloader Script
+
+
+
+
 The JNews Downloader Script is a script that allows you to fetch the latest plugins from the JNews server using a purchase code.
 
 Requirements
